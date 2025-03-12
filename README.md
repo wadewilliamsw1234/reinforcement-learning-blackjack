@@ -5,12 +5,18 @@
 ## Introduction
 
 * **Problem Statement:** Blackjack is a widely recognized card game that offers a compelling testbed for reinforcement learning due to its stochastic nature and diverse rule sets. This project explores how reinforcement learning methods adapt and generalize their learning dynamics across blackjack variants with varying state-action complexities.
-Motivation: Generalization remains a pivotal challenge in RL, particularly for applications in dynamic or unseen environments. Studying blackjack variants provides insights into how RL agents handle rule changes, a problem with significant real-world relevance in fields like robotics, finance, and gaming.
-Objectives:
-Investigate the learning dynamics of Q-learning, Deep Q-learning (DQN), Proximal Policy Optimization (PPO), and additional RL algorithms across blackjack variants.
-Integrate human strategies, such as basic strategy and card counting, alongside betting systems for comparative analysis.
-Assess how RL agents generalize policies across variants with differing numbers of decks, rules, and complexities.
-Develop an advanced, portfolio-worthy study showcasing expertise in RL and problem-solving.
+
+* **Motivation:** Generalization remains a pivotal challenge in RL, particularly for applications in dynamic or unseen environments. Studying blackjack variants provides insights into how RL agents handle rule changes, a problem with significant real-world relevance in fields like robotics, finance, and gaming.
+
+* **Objectives:**
+
+1. Investigate the learning dynamics of Q-learning, Deep Q-learning (DQN), Proximal Policy Optimization (PPO), and additional RL algorithms across blackjack variants.
+
+2. Integrate human strategies, such as basic strategy and card counting, alongside betting systems for comparative analysis.
+
+3. Assess how RL agents generalize policies across variants with differing numbers of decks, rules, and complexities.
+
+4. Develop an advanced, portfolio-worthy study showcasing expertise in RL and problem-solving.
 
 Background
 Methodology

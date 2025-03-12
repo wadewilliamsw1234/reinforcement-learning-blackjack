@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Problem Statement: Blackjack is a widely recognized card game that offers a compelling testbed for reinforcement learning due to its stochastic nature and diverse rule sets. This project explores how reinforcement learning methods adapt and generalize their learning dynamics across blackjack variants with varying state-action complexities.
+* **Problem Statement:** Blackjack is a widely recognized card game that offers a compelling testbed for reinforcement learning due to its stochastic nature and diverse rule sets. This project explores how reinforcement learning methods adapt and generalize their learning dynamics across blackjack variants with varying state-action complexities.
 Motivation: Generalization remains a pivotal challenge in RL, particularly for applications in dynamic or unseen environments. Studying blackjack variants provides insights into how RL agents handle rule changes, a problem with significant real-world relevance in fields like robotics, finance, and gaming.
 Objectives:
 Investigate the learning dynamics of Q-learning, Deep Q-learning (DQN), Proximal Policy Optimization (PPO), and additional RL algorithms across blackjack variants.

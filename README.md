@@ -10,13 +10,13 @@
 
 * **Objectives:**
 
-1. Investigate the learning dynamics of Q-learning, Deep Q-learning (DQN), Proximal Policy Optimization (PPO), and additional RL algorithms across blackjack variants.
+    1. Investigate the learning dynamics of Q-learning, Deep Q-learning (DQN), Proximal Policy Optimization (PPO), and additional RL algorithms across blackjack variants.
 
-2. Integrate human strategies, such as basic strategy and card counting, alongside betting systems for comparative analysis.
+    2. Integrate human strategies, such as basic strategy and card counting, alongside betting systems for comparative analysis.
 
-3. Assess how RL agents generalize policies across variants with differing numbers of decks, rules, and complexities.
+    3. Assess how RL agents generalize policies across variants with differing numbers of decks, rules, and complexities.
 
-4. Develop an advanced, portfolio-worthy study showcasing expertise in RL and problem-solving.
+    4. Develop an advanced, portfolio-worthy study showcasing expertise in RL and problem-solving.
 
 Background
 Methodology
